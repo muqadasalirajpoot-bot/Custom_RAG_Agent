@@ -1,0 +1,6 @@
+streamlit>=1.41
+langchain-openai
+langchain-core
+pypdf
+python-docx
+openpyxl
